@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "255087834583",
+    "project_id": "travelpartner-22580",
+    "storage_bucket": "travelpartner-22580.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255087834583:android:a9032240721fcfe11c0792",
+        "android_client_info": {
+          "package_name": "com.example.travel_partner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN4jF8mNMujqiq20p-vzmx0y2OPz6GZ7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
